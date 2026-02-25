@@ -6,4 +6,4 @@ Due to file size limitations on GitHub, the full dataset cannot be directly host
 
 The complete Taipei Ground-Based Sky Imaging Dataset is available via Google Drive at the link below:
 
-Google Drive Download Link:
+Google Drive Download Link: https://drive.google.com/drive/folders/19H8lYaIvs7dSmkP2LDndWbFXTt44TXJl?usp=sharing
